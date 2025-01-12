@@ -1,17 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac58797-4efe-4255-89ef-5e50ff228a05" name="Changes" comment="" />
+    <list default="true" id="fac58797-4efe-4255-89ef-5e50ff228a05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V1/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/FlyableAndDancable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/FlyableAndNonDancable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/NonFlyableAndDancable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/NonFlyableAndNonDancable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Dancable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Vulture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/HighFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/LowFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Vulture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/HighFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/LowFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Vulture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2rW0BDVLXIFOfUSc1x8R5bNW3Qf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,12 +75,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/LLD Code_Repo/Design_Patterns/src/SOLID/Bird_V6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "E:/LLD Code_Repo/DESIGN_PATTERNS/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LLD Code_Repo\Design_Patterns\src\SOLID\Bird_V6" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736659388848</updated>
-      <workItem from="1736659389941" duration="1000" />
+      <workItem from="1736659389941" duration="5195000" />
     </task>
     <servers />
   </component>
