@@ -5,44 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fac58797-4efe-4255-89ef-5e50ff228a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V1/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V2/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/FlyableAndDancable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/FlyableAndNonDancable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/NonFlyableAndDancable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/NonFlyableAndNonDancable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V3/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Dancable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V4/Vulture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/HighFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/LowFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V5/Vulture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/HighFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/LowFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V6/Vulture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Flybehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/HighFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/LowFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Sparrow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Client.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -101,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736659388848</updated>
-      <workItem from="1736659389941" duration="5195000" />
+      <workItem from="1736659389941" duration="10429000" />
     </task>
     <servers />
   </component>
@@ -115,6 +87,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SOLID/Bird_V7/Client.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
