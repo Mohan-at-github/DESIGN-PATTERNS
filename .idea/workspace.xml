@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fac58797-4efe-4255-89ef-5e50ff228a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Flybehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/HighFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/LowFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/Bird_V7/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Prod_Level/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Prod_Level/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/V1/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/V1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/V1/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2rW0BDVLXIFOfUSc1x8R5bNW3Qf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/LLD Code_Repo/Design_Patterns/src/SOLID/Bird_V6",
+    "last_opened_file_path": "E:/LLD Code_Repo/Design_Patterns/src/Builder/Prod_Level",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LLD Code_Repo\Design_Patterns\src\Builder\Prod_Level" />
       <recent name="E:\LLD Code_Repo\Design_Patterns\src\SOLID\Bird_V6" />
     </key>
   </component>
@@ -73,7 +70,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736659388848</updated>
-      <workItem from="1736659389941" duration="10429000" />
+      <workItem from="1736659389941" duration="10545000" />
+      <workItem from="1736911596282" duration="628000" />
+      <workItem from="1736999976113" duration="4804000" />
     </task>
     <servers />
   </component>
